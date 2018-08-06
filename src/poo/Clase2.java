@@ -16,5 +16,4 @@ public class Clase2 {
 		Clase3 miObjeto2 = new Clase3();
 		System.out.println(miObjeto2.mivar2);
 	}
-
-}
+}	
